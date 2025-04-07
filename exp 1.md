@@ -22,7 +22,7 @@ return 0;
 
 OUTPUT:
 
-![alt text][style="width:250px;height:95px"](image.png)
+![alt text](image-1.png)
 
 RESULT:
 Thus, the program is successfully verified.
