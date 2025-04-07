@@ -18,9 +18,11 @@ float a =5.800000;
 printf ("%.1f",a);
 return 0;
 }
+
+
 OUTPUT:
 
-![alt text](image.png)
+![alt text][style="width:250px;height:95px"](image.png)
 
 RESULT:
 Thus, the program is successfully verified.
