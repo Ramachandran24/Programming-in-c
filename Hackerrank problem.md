@@ -1,0 +1,35 @@
+Task
+
+This challenge requires you to print Hello Saveetha! on a single line, and then print the already provided input string to stdout. If you are not familiar with C, you may want to read about the printf() command.
+
+Example:
+
+ Saveetha
+
+The required output is:
+Hello, Saveetha!
+C Programming
+
+AIM:
+To write a C program to print the given string.
+
+ALGORITHM:
+1.	Start.
+2.	Define a variables.
+3.	Write a program to print the given string.
+4.	Read the value using scanf.
+5.	Ask the user to make an input.
+6.	Print out the answer.
+7.	End.
+
+
+PROGRAM:
+// Type your code here
+
+OUTPUT:
+
+// Paste your Output Screenshot here
+
+RESULT:
+Thus,the output is verifies successfully.
+ 
